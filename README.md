@@ -36,12 +36,10 @@ FizzBuzz is a simple number game in which you count, but replace certain numbers
     FizzBuzz
     16
 
-## Challenges & Constraints
+## Constraints & Challenges
 + Solve the problem using ping-pong style pair programming and TDD.
-+ Use baby steps (as small as possible)
-+ Use the xUnit Arange-Act-Assert paatern, Assert first
-+ Avoid using the mouse, try using testing shortcuts (CMD+SHIFT+R >Test: ...) etc.
-+ Avoid using if-else chains.
++ Use the xUnit Arange-Act-Assert pattern, Assert first
++ Use baby steps (as small as possible), Fake it & Triangulation implementation strategies
 + Try the extended requirements (with a new pair).
 
 # Stage 2 -  New extended requirements
