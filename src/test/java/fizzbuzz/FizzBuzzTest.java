@@ -1,23 +1,42 @@
 package fizzbuzz;
 
-import org.junit.jupiter.api.Test;
+// https://junit.org/junit5/
 
+import org.junit.jupiter.api.*;
+import static org.junit.jupiter.api.Assertions.*;
+
+// @DisplayNameGeneration(DisplayNameGenerator.ReplaceUnderscores.class)
 public class FizzBuzzTest {
 
-    // print the number itself.
+    // (1) -> "1 (Fake it)
     @Test
-    void shouldPrintNumberItself() {
-        int number = 1;
-        assertThat(fizzBuzz.print(number), is("" + number));
+    public void shouldPrintNumber1AsString() {
+        // arrange
+        
+        // act
+        
+        // assert
+        assertEquals("1", FizzBuzz.print(1));
     }
-
-    // for multiples of three print Fizz instead of the number
-
-
-    // for the multiples of five print Buzz instead of the number
-
-
-    // for numbers which are multiples of both three and five print FizzBuzz instead of the number
-
+   
+    // (2) -> "2" (Triangulation)
+   
     
+    // (3) -> "Fizz" (Fake it)
+   
+    
+    // (6) -> "Fizz" (Triangulation)
+   
+    
+    // (5) -> "Buzz"
+    
+    
+    // ...
+    
+    
+    // (15) -> "FizzBuzz"
+        
+    
+    // ...
+   
 }
