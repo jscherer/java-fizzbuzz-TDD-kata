@@ -1,9 +1,5 @@
-package fizzbuzz;
-
-// https://junit.org/junit5/
-
-import org.junit.jupiter.api.*;
-import static org.junit.jupiter.api.Assertions.*;
+import static org.junit.jupiter.api.Assertions.assertEquals;
+import org.junit.jupiter.api.Test;
 
 // @DisplayNameGeneration(DisplayNameGenerator.ReplaceUnderscores.class)
 public class FizzBuzzTest {
