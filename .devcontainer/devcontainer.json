@@ -20,13 +20,21 @@
 		"vscode": {
 			"settings": {},
 			"extensions": [
-				"streetsidesoftware.code-spell-checker",
+"streetsidesoftware.code-spell-checker",
 				"vscjava.vscode-maven",
 				"vscjava.vscode-java-pack",
 				"vscjava.vscode-java-test",
 				"SonarSource.sonarlint-vscode",
 				"JavaTest.java-test",
-				"ms-vsliveshare.vsliveshare"
+				"ms-vsliveshare.vsliveshare",
+				"javaTest.java-test",
+				"vscjava.vscode-java-dependency",
+				"vscjava.vscode-java-debug",
+				"alphabotsec.vscode-eclipse-keybindings",
+				"GitHub.remotehub",
+				"VisualStudioExptTeam.vscodeintellicode",
+				"VisualStudioExptTeam.intellicode-api-usage-examples",
+				"redhat.java"
 			]
 		}
 	}
