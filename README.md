@@ -52,9 +52,9 @@ For a given number return:
 + The number if no other requirement is fulfilled
 
 ## Sources 
-[https://codingdojo.org/kata/FizzBuzz/](https://codingdojo.org/kata/FizzBuzz/)
-[https://github.com/ardalis/kata-catalog](https://github.com/ardalis/kata-catalog)
-[https://github.com/alvaromr/fizzbuzz-kata](https://github.com/alvaromr/fizzbuzz-kata)
++ [https://codingdojo.org/kata/FizzBuzz/](https://codingdojo.org/kata/FizzBuzz/)
++ [https://github.com/ardalis/kata-catalog](https://github.com/ardalis/kata-catalog)
++ [https://github.com/alvaromr/fizzbuzz-kata](https://github.com/alvaromr/fizzbuzz-kata)
 
 
 # Try Out Development Containers: Java
